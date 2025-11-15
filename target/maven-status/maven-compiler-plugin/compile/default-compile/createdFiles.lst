@@ -1,0 +1,4 @@
+com\bookhub\entity\Book.class
+com\bookhub\dao\BookDAO.class
+com\bookhub\controller\BookController.class
+com\bookhub\dao\BookDAOImpl.class
